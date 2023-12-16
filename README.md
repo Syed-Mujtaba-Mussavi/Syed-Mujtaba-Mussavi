@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-mujtaba-mussavi&label=Profile%20views&color=0e75b6&style=flat" alt="syed-mujtaba-mussavi" /> </p>
 <img align="right" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding">
 
-🌱 I’m currently learning **react**
+🌱 I’m currently working with **Next.js**
 
 📫 How to reach me **mujtabasadat07800@gmail.com**
 
