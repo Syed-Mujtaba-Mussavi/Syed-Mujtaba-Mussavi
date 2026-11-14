@@ -63,13 +63,14 @@ I enjoy solving complex frontend challenges, collaborating with engineering team
 
 ---
 
+
 ### 🤝 Let's Connect
 
 I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
 
-- 🌐 **Portfolio:** [syed-mujtaba.vercel.app](https://syed-mujtaba.vercel.app/)
-- 📧 **Email:** [mujtabasadat07800@gmail.com](mailto:mujtabasadat07800@gmail.com)
-- 💻 **GitHub:** [@syed-mujtaba-mussavi](https://github.com/syed-mujtaba-mussavi)
+- 🌐 **Portfolio:** <a href="https://syed-mujtaba.vercel.app/" target="_blank">syed-mujtaba.vercel.app</a>
+- 📧 **Email:** <a href="mailto:mujtabasadat07800@gmail.com">mujtabasadat07800@gmail.com</a>
+- 💻 **GitHub:** <a href="https://github.com/syed-mujtaba-mussavi" target="_blank">@syed-mujtaba-mussavi</a>
 
 ---
 
