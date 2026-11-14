@@ -1,6 +1,6 @@
 <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="background">
 <h1 align="center">Hi 👋, I'm Syed Mujtaba Mussavi</h1>
-<h3 align="center">A passionate frontend developer and UI & UX designer</h3>
+<h3 align="center">A passionate Frontend Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-mujtaba-mussavi&label=Profile%20views&color=0e75b6&style=flat" alt="syed-mujtaba-mussavi" /> </p>
 <img align="right" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding">
